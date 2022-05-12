@@ -1,0 +1,195 @@
+====================================================================================
+-------------------------------ring property (I)------------------------------------
+
+               Ring 1               
+
+    1     1     2    C2
+    1     2     3    C3
+    1     3     4    C4
+    1     4     5    C5
+    1     5     6    C6
+    1     6     7    C7
+
+               Ring 2               
+
+    2     1     9    C9
+    2     2    10   C10
+    2     3    11   C11
+    2     4    12   C12
+    2     5    13   C13
+    2     6    15   C15
+
+====================================================================================
+-------------------------------ring property (II)------------------------------------
+atom[ 2] (C2  ) belongs to one member of 6-membered  ring (No  1)
+atom[ 3] (C3  ) belongs to one member of 6-membered  ring (No  1)
+atom[ 4] (C4  ) belongs to one member of 6-membered  ring (No  1)
+atom[ 5] (C5  ) belongs to one member of 6-membered  ring (No  1)
+atom[ 6] (C6  ) belongs to one member of 6-membered  ring (No  1)
+atom[ 7] (C7  ) belongs to one member of 6-membered  ring (No  1)
+atom[ 9] (C9  ) belongs to one member of 6-membered  ring (No  2)
+atom[10] (C10 ) belongs to one member of 6-membered  ring (No  2)
+atom[11] (C11 ) belongs to one member of 6-membered  ring (No  2)
+atom[12] (C12 ) belongs to one member of 6-membered  ring (No  2)
+atom[13] (C13 ) belongs to one member of 6-membered  ring (No  2)
+atom[15] (C15 ) belongs to one member of 6-membered  ring (No  2)
+
+====================================================================================
+-------------------------------ring property (III)-----------------------------------
+atom[ 1] (C   ) is not in any ring (nr[1]=1)
+atom[ 2] (C2  ) involves in 1 6-member of ring(s)
+atom[ 3] (C3  ) involves in 1 6-member of ring(s)
+atom[ 4] (C4  ) involves in 1 6-member of ring(s)
+atom[ 5] (C5  ) involves in 1 6-member of ring(s)
+atom[ 6] (C6  ) involves in 1 6-member of ring(s)
+atom[ 7] (C7  ) involves in 1 6-member of ring(s)
+atom[ 8] (O   ) is not in any ring (nr[8]=1)
+atom[ 9] (C9  ) involves in 1 6-member of ring(s)
+atom[10] (C10 ) involves in 1 6-member of ring(s)
+atom[11] (C11 ) involves in 1 6-member of ring(s)
+atom[12] (C12 ) involves in 1 6-member of ring(s)
+atom[13] (C13 ) involves in 1 6-member of ring(s)
+atom[14] (CL  ) is not in any ring (nr[14]=1)
+atom[15] (C15 ) involves in 1 6-member of ring(s)
+atom[16] (S   ) is not in any ring (nr[16]=1)
+atom[17] (O17 ) is not in any ring (nr[17]=1)
+atom[18] (C18 ) is not in any ring (nr[18]=1)
+atom[19] (C19 ) is not in any ring (nr[19]=1)
+atom[20] (N   ) is not in any ring (nr[20]=1)
+atom[21] (F   ) is not in any ring (nr[21]=1)
+atom[22] (O22 ) is not in any ring (nr[22]=1)
+atom[23] (H   ) is not in any ring (nr[23]=1)
+atom[24] (H24 ) is not in any ring (nr[24]=1)
+atom[25] (H25 ) is not in any ring (nr[25]=1)
+atom[26] (H26 ) is not in any ring (nr[26]=1)
+atom[27] (H27 ) is not in any ring (nr[27]=1)
+atom[28] (H28 ) is not in any ring (nr[28]=1)
+atom[29] (H29 ) is not in any ring (nr[29]=1)
+atom[30] (H30 ) is not in any ring (nr[30]=1)
+atom[31] (H31 ) is not in any ring (nr[31]=1)
+atom[32] (H32 ) is not in any ring (nr[32]=1)
+atom[33] (H33 ) is not in any ring (nr[33]=1)
+
+====================================================================================
+-------------------------------aromatic property------------------------------------
+atom[ 2] (C2  ) is in 1 pure aromatic ring(s) (AR1)
+atom[ 3] (C3  ) is in 1 pure aromatic ring(s) (AR1)
+atom[ 4] (C4  ) is in 1 pure aromatic ring(s) (AR1)
+atom[ 5] (C5  ) is in 1 pure aromatic ring(s) (AR1)
+atom[ 6] (C6  ) is in 1 pure aromatic ring(s) (AR1)
+atom[ 7] (C7  ) is in 1 pure aromatic ring(s) (AR1)
+atom[ 9] (C9  ) is in 1 pure aromatic ring(s) (AR1)
+atom[10] (C10 ) is in 1 pure aromatic ring(s) (AR1)
+atom[11] (C11 ) is in 1 pure aromatic ring(s) (AR1)
+atom[12] (C12 ) is in 1 pure aromatic ring(s) (AR1)
+atom[13] (C13 ) is in 1 pure aromatic ring(s) (AR1)
+atom[15] (C15 ) is in 1 pure aromatic ring(s) (AR1)
+
+====================================================================================
+-------------------------------electronic property----------------------------------
+atom [ 1] (C   ) is not an electron-withdrew atom
+atom [ 2] (C2  ) is not an electron-withdrew atom
+atom [ 3] (C3  ) is not an electron-withdrew atom
+atom [ 4] (C4  ) is not an electron-withdrew atom
+atom [ 5] (C5  ) is not an electron-withdrew atom
+atom [ 6] (C6  ) is not an electron-withdrew atom
+atom [ 7] (C7  ) is not an electron-withdrew atom
+atom [ 8] (O   ) is an electron-withdrew atom
+atom [ 9] (C9  ) is not an electron-withdrew atom
+atom [10] (C10 ) is not an electron-withdrew atom
+atom [11] (C11 ) is not an electron-withdrew atom
+atom [12] (C12 ) is not an electron-withdrew atom
+atom [13] (C13 ) is not an electron-withdrew atom
+atom [14] (CL  ) is an electron-withdrew atom
+atom [15] (C15 ) is not an electron-withdrew atom
+atom [16] (S   ) is an electron-withdrew atom
+atom [17] (O17 ) is an electron-withdrew atom
+atom [18] (C18 ) is not an electron-withdrew atom
+atom [19] (C19 ) is not an electron-withdrew atom
+atom [20] (N   ) is an electron-withdrew atom
+atom [21] (F   ) is an electron-withdrew atom
+atom [22] (O22 ) is an electron-withdrew atom
+atom [23] (H   ) is not an electron-withdrew atom
+atom [24] (H24 ) is not an electron-withdrew atom
+atom [25] (H25 ) is not an electron-withdrew atom
+atom [26] (H26 ) is not an electron-withdrew atom
+atom [27] (H27 ) is not an electron-withdrew atom
+atom [28] (H28 ) is not an electron-withdrew atom
+atom [29] (H29 ) is not an electron-withdrew atom
+atom [30] (H30 ) is not an electron-withdrew atom
+atom [31] (H31 ) is not an electron-withdrew atom
+atom [32] (H32 ) is not an electron-withdrew atom
+atom [33] (H33 ) is not an electron-withdrew atom
+
+====================================================================================
+--------------------------------connectivity property-------------------------------
+atom[ 1] (C   )     3    C3
+atom[ 1] (C   )    23     H
+atom[ 1] (C   )    24   H24
+atom[ 1] (C   )    25   H25
+atom[ 2] (C2  )     3    C3
+atom[ 2] (C2  )     7    C7
+atom[ 2] (C2  )    19   C19
+atom[ 3] (C3  )     1     C
+atom[ 3] (C3  )     2    C2
+atom[ 3] (C3  )     4    C4
+atom[ 4] (C4  )     3    C3
+atom[ 4] (C4  )     5    C5
+atom[ 4] (C4  )    16     S
+atom[ 5] (C5  )     4    C4
+atom[ 5] (C5  )     6    C6
+atom[ 5] (C5  )    26   H26
+atom[ 6] (C6  )     5    C5
+atom[ 6] (C6  )     7    C7
+atom[ 6] (C6  )    27   H27
+atom[ 7] (C7  )     2    C2
+atom[ 7] (C7  )     6    C6
+atom[ 7] (C7  )     8     O
+atom[ 8] (O   )     7    C7
+atom[ 8] (O   )     9    C9
+atom[ 9] (C9  )     8     O
+atom[ 9] (C9  )    10   C10
+atom[ 9] (C9  )    15   C15
+atom[10] (C10 )     9    C9
+atom[10] (C10 )    11   C11
+atom[10] (C10 )    28   H28
+atom[11] (C11 )    10   C10
+atom[11] (C11 )    12   C12
+atom[11] (C11 )    21     F
+atom[12] (C12 )    11   C11
+atom[12] (C12 )    13   C13
+atom[12] (C12 )    29   H29
+atom[13] (C13 )    12   C12
+atom[13] (C13 )    14    CL
+atom[13] (C13 )    15   C15
+atom[14] (CL  )    13   C13
+atom[15] (C15 )     9    C9
+atom[15] (C15 )    13   C13
+atom[15] (C15 )    30   H30
+atom[16] (S   )     4    C4
+atom[16] (S   )    17   O17
+atom[16] (S   )    18   C18
+atom[16] (S   )    22   O22
+atom[17] (O17 )    16     S
+atom[18] (C18 )    16     S
+atom[18] (C18 )    31   H31
+atom[18] (C18 )    32   H32
+atom[18] (C18 )    33   H33
+atom[19] (C19 )     2    C2
+atom[19] (C19 )    20     N
+atom[20] (N   )    19   C19
+atom[21] (F   )    11   C11
+atom[22] (O22 )    16     S
+atom[23] (H   )     1     C
+atom[24] (H24 )     1     C
+atom[25] (H25 )     1     C
+atom[26] (H26 )     5    C5
+atom[27] (H27 )     6    C6
+atom[28] (H28 )    10   C10
+atom[29] (H29 )    12   C12
+atom[30] (H30 )    15   C15
+atom[31] (H31 )    18   C18
+atom[32] (H32 )    18   C18
+atom[33] (H33 )    18   C18
+----------------------------------------END-----------------------------------------
+
