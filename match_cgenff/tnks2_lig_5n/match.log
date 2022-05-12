@@ -88,4 +88,4 @@ C24     CG321   O25     OG311   1        0.23000 -  -0.23000
 C24     CG321   H42     HGA2    1       -0.09000 -   0.09000
 C24     CG321   H43     HGA2    1       -0.09000 -   0.09000
 H44     HGP1    O25     OG311   1        0.42000 -  -0.42000
-mol_gmx.pdb Success!
+mol.mol2 Success!

@@ -111,4 +111,4 @@ C29     CG331   H52     HGA3    1       -0.09000 -   0.09000
 C30     CG331   H53     HGA3    1       -0.09000 -   0.09000
 C30     CG331   H54     HGA3    1       -0.09000 -   0.09000
 C30     CG331   H55     HGA3    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!

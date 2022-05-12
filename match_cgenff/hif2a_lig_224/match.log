@@ -74,4 +74,4 @@ C25     CG2R51  H34     HGR52   1       -0.10000 -   0.10000
 C26     CG331   H35     HGA3    1       -0.09000 -   0.09000
 C26     CG331   H36     HGA3    1       -0.09000 -   0.09000
 C26     CG331   H37     HGA3    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!

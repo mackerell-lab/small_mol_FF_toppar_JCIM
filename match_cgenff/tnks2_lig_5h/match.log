@@ -82,4 +82,4 @@ C23     CG331   O22     OG301   1        0.17000 -  -0.17000
 C23     CG331   H39     HGA3    1       -0.09000 -   0.09000
 C23     CG331   H40     HGA3    1       -0.09000 -   0.09000
 C23     CG331   H41     HGA3    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!

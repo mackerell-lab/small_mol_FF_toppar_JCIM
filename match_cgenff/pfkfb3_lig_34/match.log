@@ -98,4 +98,4 @@ C28     CG2O1   N29     NG2S2   1        0.00000 -   0.00000
 C28     CG2O1   O       OG2D1   2        0.51000 -  -0.51000
 H47     HGP1    N29     NG2S2   1        0.34000 -  -0.34000
 H48     HGP1    N29     NG2S2   1        0.34000 -  -0.34000
-mol_gmx.pdb Success!
+mol.mol2 Success!

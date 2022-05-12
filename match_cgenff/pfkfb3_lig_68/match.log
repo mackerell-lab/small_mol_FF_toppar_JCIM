@@ -98,4 +98,4 @@ C29     CG2R51  N31     NG321   1        0.04000 -  -0.04000
 C30     CG2R51  H46     HGR51   1       -0.15000 -   0.15000
 H47     HGP1    N31     NG321   1        0.38000 -  -0.38000
 H48     HGP1    N31     NG321   1        0.38000 -  -0.38000
-mol_gmx.pdb Success!
+mol.mol2 Success!

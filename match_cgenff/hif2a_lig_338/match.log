@@ -74,4 +74,4 @@ O22     OG2P1   S       SG3O2   2       -0.42000 -   0.42000
 N27     NG321   S       SG3O2   1       -0.01000 -   0.01000
 H36     HGP1    N27     NG321   1        0.38000 -  -0.38000
 H37     HGP1    N27     NG321   1        0.38000 -  -0.38000
-mol_gmx.pdb Success!
+mol.mol2 Success!

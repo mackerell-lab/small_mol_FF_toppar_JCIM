@@ -90,4 +90,4 @@ O30     OG2P1   S       SG3O2   2       -0.36000 -   0.36000
 C28     CG331   H42     HGA3    1       -0.09000 -   0.09000
 C28     CG331   H43     HGA3    1       -0.09000 -   0.09000
 C28     CG331   H44     HGA3    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!

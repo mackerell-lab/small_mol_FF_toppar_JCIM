@@ -97,4 +97,4 @@ C29     CG331   O28     OG301   1        0.17000 -  -0.17000
 C29     CG331   H46     HGA3    1       -0.09000 -   0.09000
 C29     CG331   H47     HGA3    1       -0.09000 -   0.09000
 C29     CG331   H48     HGA3    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!

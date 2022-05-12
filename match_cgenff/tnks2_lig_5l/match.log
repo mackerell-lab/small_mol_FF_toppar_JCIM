@@ -74,4 +74,4 @@ C19     CG2R61  H36     HGR62   1         -0.150 -     0.150
 C20     CG2R61  C21     CG2R66  2        0.00000 -   0.00000
 C20     CG2R61  H37     HGR62   1         -0.120 -     0.120
 C21     CG2R66  F       FGR1    1        0.21500 -  -0.21500
-mol_gmx.pdb Success!
+mol.mol2 Success!

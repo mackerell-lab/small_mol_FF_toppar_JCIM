@@ -74,4 +74,4 @@ C22     CG302   S       SG3O2   1        0.22000 -  -0.22000
 C22     CG302   F26     FGA3    1        0.14000 -  -0.14000
 C22     CG302   F27     FGA3    1        0.14000 -  -0.14000
 C22     CG302   F28     FGA3    1        0.14000 -  -0.14000
-mol_gmx.pdb Success!
+mol.mol2 Success!

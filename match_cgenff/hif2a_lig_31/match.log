@@ -67,4 +67,4 @@ C19     CG312   F       FGA2    1        0.17000 -  -0.17000
 C19     CG312   F21     FGA2    1        0.17000 -  -0.17000
 C19     CG312   H34     HGA7    1       -0.10000 -   0.10000
 C22     CG1N1   N       NG1T1   3        0.46000 -  -0.46000
-mol_gmx.pdb Success!
+mol.mol2 Success!

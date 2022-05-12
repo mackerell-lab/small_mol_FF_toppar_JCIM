@@ -67,4 +67,4 @@ C16     CG331   H31     HGA3    1       -0.09000 -   0.09000
 C17     CG331   H32     HGA3    1       -0.09000 -   0.09000
 C17     CG331   H33     HGA3    1       -0.09000 -   0.09000
 C17     CG331   H34     HGA3    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!

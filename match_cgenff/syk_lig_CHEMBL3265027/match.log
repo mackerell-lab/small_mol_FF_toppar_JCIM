@@ -80,4 +80,4 @@ C24     CG2RC0  N23     NG2R51  1        0.15000 -  -0.15000
 H38     HGP1    N23     NG2R51  1          0.370 -   -0.3700
 C25     CG2R61  C24     CG2RC0  2        0.00000 -   0.00000
 C25     CG2R61  H39     HGR61   1       -0.11500 -   0.11500
-mol_gmx.pdb Success!
+mol.mol2 Success!

@@ -92,4 +92,4 @@ C25     CG2R61  H44     HGR62   1       -0.12000 -   0.12000
 C27     CG2R61  N26     NG2R60  2        0.30000 -  -0.30000
 C27     CG2R61  H45     HGR62   1       -0.12000 -   0.12000
 C28     CG1N1   N29     NG1T1   3        0.46000 -  -0.46000
-mol_gmx.pdb Success!
+mol.mol2 Success!

@@ -144,4 +144,4 @@ C35     CG311   H68     HGA1    1       -0.09000 -   0.09000
 C37     CG2R61  C38     CG2R61  2        0.00000 -   0.00000
 C37     CG2R61  H69     HGR61   1       -0.11500 -   0.11500
 C38     CG2R61  H70     HGR61   1       -0.11500 -   0.11500
-mol_gmx.pdb Success!
+mol.mol2 Success!

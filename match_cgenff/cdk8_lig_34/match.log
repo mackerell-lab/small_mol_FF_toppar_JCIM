@@ -100,4 +100,4 @@ C27     CG312   F       FGA2    1        0.17000 -  -0.17000
 C27     CG312   F30     FGA2    1        0.17000 -  -0.17000
 C28     CG321   H48     HGA2    1       -0.09000 -   0.09000
 C28     CG321   H49     HGA2    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!

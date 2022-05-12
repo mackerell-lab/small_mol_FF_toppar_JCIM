@@ -131,4 +131,4 @@ C33     CG324   H62     HGA2    1       -0.05000 -   0.05000
 H63     HGP2    N34     NG3P3   1        0.33000 -  -0.08000
 H64     HGP2    N34     NG3P3   1        0.33000 -  -0.08000
 H65     HGP2    N34     NG3P3   1        0.33000 -  -0.08000
-mol_gmx.pdb Success!
+mol.mol2 Success!

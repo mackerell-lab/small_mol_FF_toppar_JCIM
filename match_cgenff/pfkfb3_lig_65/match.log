@@ -92,4 +92,4 @@ C27     CG2RC0  S28     SG2R50  1        0.08000 -  -0.08000
 C29     CG2R53  S28     SG2R50  1        0.08000 -  -0.08000
 C29     CG2R53  N30     NG2R50  2        0.28000 -  -0.28000
 C29     CG2R53  H45     HGR52   1         -0.140 -     0.140
-mol_gmx.pdb Success!
+mol.mol2 Success!

@@ -91,4 +91,4 @@ C27     CG331   H42     HGA3    1       -0.09000 -   0.09000
 C27     CG331   H43     HGA3    1       -0.09000 -   0.09000
 H44     HGP4    N28     NG2S3   1        0.38000 -  -0.38000
 H45     HGP4    N28     NG2S3   1        0.38000 -  -0.38000
-mol_gmx.pdb Success!
+mol.mol2 Success!

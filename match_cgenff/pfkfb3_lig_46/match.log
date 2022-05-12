@@ -93,4 +93,4 @@ C27     CG2R61  C28     CG302   1        0.00000 -   0.00000
 C28     CG302   F       FGA3    1        0.14000 -  -0.14000
 C28     CG302   F30     FGA3    1        0.14000 -  -0.14000
 C28     CG302   F31     FGA3    1        0.14000 -  -0.14000
-mol_gmx.pdb Success!
+mol.mol2 Success!

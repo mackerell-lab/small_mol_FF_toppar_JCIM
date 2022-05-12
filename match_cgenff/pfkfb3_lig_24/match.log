@@ -94,4 +94,4 @@ C26     CG2R61  C27     CG2R61  1        0.00000 -   0.00000
 C26     CG2R61  H46     HGR61   1       -0.11500 -   0.11500
 C28     CG1N1   C27     CG2R61  1       -0.10000 -   0.10000
 C28     CG1N1   N29     NG1T1   3        0.46000 -  -0.46000
-mol_gmx.pdb Success!
+mol.mol2 Success!

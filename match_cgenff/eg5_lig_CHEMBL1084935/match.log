@@ -141,4 +141,4 @@ C28     CG2R61  H68     HGR61   1       -0.11500 -   0.11500
 C29     CG2DC2  C30     CG311   1        0.16500 -  -0.16500
 C30     CG311   O31     OG3C61  1        0.17000 -  -0.17000
 C30     CG311   H69     HGA1    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!

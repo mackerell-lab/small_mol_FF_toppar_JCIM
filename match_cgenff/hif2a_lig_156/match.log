@@ -76,4 +76,4 @@ C22     CG312   S       SG3O2   1        0.22000 -  -0.22000
 C22     CG312   F       FGA2    1        0.17000 -  -0.17000
 C22     CG312   F24     FGA2    1        0.17000 -  -0.17000
 C22     CG312   H38     HGA7    1       -0.10000 -   0.10000
-mol_gmx.pdb Success!
+mol.mol2 Success!

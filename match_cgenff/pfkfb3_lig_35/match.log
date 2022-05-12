@@ -102,4 +102,4 @@ C31     CG331   S       SG3O2   1        0.29000 -  -0.29000
 C31     CG331   H48     HGA3    1       -0.09000 -   0.09000
 C31     CG331   H49     HGA3    1       -0.09000 -   0.09000
 C31     CG331   H50     HGA3    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!

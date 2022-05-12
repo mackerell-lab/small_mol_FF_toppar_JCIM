@@ -54,4 +54,4 @@ C14     CG2R63  N15     NG2R61  1        0.05000 -  -0.05000
 C14     CG2R63  O       OG2D4   2        0.49000 -  -0.49000
 C16     CG2R64  N15     NG2R61  1        0.05000 -  -0.05000
 H24     HGP1    N15     NG2R61  1        0.36000 -  -0.36000
-mol_gmx.pdb Success!
+mol.mol2 Success!

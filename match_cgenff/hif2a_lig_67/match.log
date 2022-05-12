@@ -64,4 +64,4 @@ C17     CG2R66  F18     FGR1    1        0.19000 -  -0.19000
 C19     CG2R61  C17     CG2R66  2        0.00000 -   0.00000
 C19     CG2R61  H32     HGR62   1         -0.220 -     0.220
 C22     CG1N1   N       NG1T1   3        0.46000 -  -0.46000
-mol_gmx.pdb Success!
+mol.mol2 Success!

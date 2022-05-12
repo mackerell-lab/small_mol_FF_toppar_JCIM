@@ -76,4 +76,4 @@ C23     CG331   S       SG3O2   1        0.29000 -  -0.29000
 C23     CG331   H36     HGA3    1       -0.09000 -   0.09000
 C23     CG331   H37     HGA3    1       -0.09000 -   0.09000
 C23     CG331   H38     HGA3    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!

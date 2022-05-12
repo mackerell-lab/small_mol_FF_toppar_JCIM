@@ -108,4 +108,4 @@ C28     CG3C52  H50     HGA2    1       -0.09000 -   0.09000
 C29     CG3C52  H51     HGA2    1       -0.09000 -   0.09000
 C29     CG3C52  H52     HGA2    1       -0.09000 -   0.09000
 H53     HGP1    O30     OG311   1        0.42000 -  -0.42000
-mol_gmx.pdb Success!
+mol.mol2 Success!

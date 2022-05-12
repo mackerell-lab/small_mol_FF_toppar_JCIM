@@ -100,4 +100,4 @@ C27     CG2R61  N29     NG2S3   1        0.07000 -  -0.07000
 C28     CG2R61  H47     HGR61   1       -0.11500 -   0.11500
 H48     HGP4    N29     NG2S3   1        0.40000 -  -0.40000
 H49     HGP4    N29     NG2S3   1        0.40000 -  -0.40000
-mol_gmx.pdb Success!
+mol.mol2 Success!

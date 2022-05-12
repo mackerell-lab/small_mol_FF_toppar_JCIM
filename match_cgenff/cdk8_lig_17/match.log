@@ -83,4 +83,4 @@ C23     CG2R52  H37     HGR52   1       -0.27000 -   0.27000
 C38     CG331   H39     HGA3    1       -0.09000 -   0.09000
 C38     CG331   H40     HGA3    1       -0.09000 -   0.09000
 C38     CG331   H41     HGA3    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!

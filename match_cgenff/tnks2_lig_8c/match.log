@@ -87,4 +87,4 @@ C24     CG324   H39     HGA2    1       -0.09000 -   0.09000
 C24     CG324   H40     HGA2    1       -0.09000 -   0.09000
 C25     CG321   H41     HGA2    1       -0.09000 -   0.09000
 C25     CG321   H42     HGA2    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!

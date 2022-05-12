@@ -84,4 +84,4 @@ C23     CG2R66  F24     FGR1    1        0.19000 -  -0.19000
 C25     CG2R61  C23     CG2R66  2        0.00000 -   0.00000
 C25     CG2R61  H40     HGR62   1         -0.220 -     0.220
 C26     CG2R61  H41     HGR61   1       -0.11500 -   0.11500
-mol_gmx.pdb Success!
+mol.mol2 Success!

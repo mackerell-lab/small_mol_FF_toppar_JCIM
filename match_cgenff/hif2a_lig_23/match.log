@@ -76,4 +76,4 @@ C23     CG312   F24     FGA2    1        0.17000 -  -0.17000
 C23     CG312   F25     FGA2    1        0.17000 -  -0.17000
 C23     CG312   H37     HGA7    1       -0.10000 -   0.10000
 H38     HGP1    O26     OG311   1        0.42000 -  -0.42000
-mol_gmx.pdb Success!
+mol.mol2 Success!

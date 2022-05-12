@@ -81,4 +81,4 @@ C28     CG2R52  N       NG2R50  2        0.25000 -  -0.25000
 C28     CG2R52  H39     HGR52   1         -0.130 -     0.130
 N       NG2R50  N30     NG2R51  1       -0.32000 -   0.32000
 H40     HGP1    N30     NG2R51  1          0.370 -   -0.3700
-mol_gmx.pdb Success!
+mol.mol2 Success!

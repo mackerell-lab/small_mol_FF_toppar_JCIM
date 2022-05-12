@@ -78,4 +78,4 @@ H36     HGP1    N       NG311   1        0.35000 -  -0.35000
 C26     CG331   H37     HGA3    1       -0.09000 -   0.09000
 C26     CG331   H38     HGA3    1       -0.09000 -   0.09000
 C26     CG331   H39     HGA3    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!

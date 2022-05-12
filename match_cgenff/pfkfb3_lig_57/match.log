@@ -102,4 +102,4 @@ C31     CG312   N30     NG2R51  1        0.00000 -   0.00000
 C31     CG312   F       FGA2    1        0.17000 -  -0.17000
 C31     CG312   F33     FGA2    1        0.17000 -  -0.17000
 C31     CG312   H50     HGA7    1       -0.10000 -   0.10000
-mol_gmx.pdb Success!
+mol.mol2 Success!

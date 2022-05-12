@@ -127,4 +127,4 @@ C37     CG331   O40     OG301   1        0.17000 -  -0.17000
 C37     CG331   H60     HGA3    1       -0.09000 -   0.09000
 C37     CG331   H61     HGA3    1       -0.09000 -   0.09000
 C37     CG331   H62     HGA3    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!

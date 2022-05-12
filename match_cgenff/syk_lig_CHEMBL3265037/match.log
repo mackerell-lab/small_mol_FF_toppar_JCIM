@@ -115,4 +115,4 @@ C32     CG321   H53     HGA2    1       -0.09000 -   0.09000
 C32     CG321   H54     HGA2    1       -0.09000 -   0.09000
 C33     CG321   H55     HGA2    1       -0.09000 -   0.09000
 C33     CG321   H56     HGA2    1       -0.09000 -   0.09000
-mol_gmx.pdb Success!
+mol.mol2 Success!
