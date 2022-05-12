@@ -1,4 +1,4 @@
-<h1 align="center">Toppar Small Molecule ForceField Files </h1>
+<h1 align="center">Small Molecule ForceField Toppar Files </h1>
 
 
 This is a collection of topology and parameter files generated for `264` ligands by parameter assignment programs. The investigated parameter assignment programs and generalized force fields are tabulated below:
