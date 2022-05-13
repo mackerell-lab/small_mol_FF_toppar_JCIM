@@ -39,7 +39,7 @@ Data pertaining to Gasys et al are provided in the respective [GitHub repository
 │   │   ├── ANTECHAMBER_AM1BCC_GAFF2.AC (Antechamber topology file output)
 └── └── └── ANTECHAMBER_GAFF2.FRCMOD (Antechamber parameter file output)
 ```
-Ligand IDs follow the naming provided in [Gapsys et al, J. Chem. Inf. Model. 2022](doi.org/10.1021/acs.jcim.1c01445), which include the protein system the ligands are associated with followed by their ligand name.
+Ligand IDs are based on the naming provided in [Gapsys et al, J. Chem. Inf. Model. 2022](doi.org/10.1021/acs.jcim.1c01445), which include the protein system the ligands are associated with followed by their ligand name.
 
 ## Citation
 
