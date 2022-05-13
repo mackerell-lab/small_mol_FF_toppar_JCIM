@@ -18,7 +18,28 @@ In addition to the parameter sets above, we investigated the modified `CGenFFv3.
 Data pertaining to Gasys et al are provided in the respective [GitHub repository](https://github.com/deGrootLab/rel_ddG_MerckDataSet_JCIM).
 
 ## Contents
-*Under construction.*
+```
+├── cgenff
+│   ├── ligand_id
+│   │   ├── mol.str (CGenFF stream file output)
+├── cgenff_legacy
+│   ├── ligand_name
+│   │   ├── mol.str (CGenFF Legacy stream file output)
+├── match_cgenff
+│   ├── ligand_id
+│   │   ├── mol.rtf (MATCH topology file output)
+│   │   ├── mol.prm (MATCH parameter file output)
+│   │   ├── mol.log (MATCH log output)
+├── gaff_am1_bcc
+│   ├── ligand_id
+│   │   ├── ANTECHAMBER_AM1BCC_GAFF.AC (Antechamber topology file output)
+│   │   ├── ANTECHAMBER_GAFF.FRCMOD (Antechamber parameter file output)
+├── gaff2_am1_bcc
+│   ├── ligand_id
+│   │   ├── ANTECHAMBER_AM1BCC_GAFF2.AC (Antechamber topology file output)
+└── └── └── ANTECHAMBER_GAFF2.FRCMOD (Antechamber parameter file output)
+```
+Ligand IDs follow the naming provided in [Gapsys et al, J. Chem. Inf. Model. 2022](doi.org/10.1021/acs.jcim.1c01445), which include the protein system the ligands are associated with followed by their ligand name.
 
 ## Citation
 
