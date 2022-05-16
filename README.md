@@ -38,7 +38,7 @@ Data pertaining to Gasys et al are provided in the respective [GitHub repository
 │   ├── ligand_id
 │   │   ├── mol_am1bcc_gaff2.ac (Antechamber topology file output)
 │   │   ├── mol_gaff2.frcmod (Antechamber parameter file output)
-├── gaff2_am1_bcc
+├── gaff2_resp
 │   ├── ligand_id
 │   │   ├── resp_charges.txt (RESP charges)
 └── └── └── mol_gaff2.frcmod (Antechamber parameter file output)
