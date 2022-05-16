@@ -32,15 +32,21 @@ Data pertaining to Gasys et al are provided in the respective [GitHub repository
 │   │   ├── mol.log (MATCH log output)
 ├── gaff_am1_bcc
 │   ├── ligand_id
-│   │   ├── ANTECHAMBER_AM1BCC_GAFF.AC (Antechamber topology file output)
-│   │   ├── ANTECHAMBER_GAFF.FRCMOD (Antechamber parameter file output)
+│   │   ├── mol_am1bcc_gaff.ac (Antechamber topology file output)
+│   │   ├── mol_gaff.frcmod (Antechamber parameter file output)
 ├── gaff2_am1_bcc
 │   ├── ligand_id
-│   │   ├── ANTECHAMBER_AM1BCC_GAFF2.AC (Antechamber topology file output)
-└── └── └── ANTECHAMBER_GAFF2.FRCMOD (Antechamber parameter file output)
+│   │   ├── mol_am1bcc_gaff2.ac (Antechamber topology file output)
+│   │   ├── mol_gaff2.frcmod (Antechamber parameter file output)
+├── gaff2_am1_bcc
+│   ├── ligand_id
+│   │   ├── resp_charges.txt (RESP charges)
+└── └── └── mol_gaff2.frcmod (Antechamber parameter file output)
 ```
 Ligand IDs are based on the naming provided in [Gapsys et al, J. Chem. Inf. Model. 2022](doi.org/10.1021/acs.jcim.1c01445), which include the protein system the ligands are associated with followed by their ligand name.
 
+RESP charges were calculated through `Psi4` and workflows developed in [Kumar et al, J. Chem. Theory Comput. 2022](doi.org/10.1021/acs.jctc.1c01166).
+
 ## Citation
 
-Asuka A. Orr, Suliman Sharif, Junmei Wang, Alexander D. MacKerell Jr. Preserving the Integrity of Empirical Force Fields. _In preparation_.
+Asuka A. Orr, Suliman Sharif, Junmei Wang, Alexander D. MacKerell Jr. Preserving the Integrity of Empirical Force Fields. _Under Review_.
