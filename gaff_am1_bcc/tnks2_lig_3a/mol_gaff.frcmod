@@ -1,0 +1,107 @@
+Remark line goes here
+MASS
+nc 14.010        0.530
+cd 12.010        0.360
+n  14.010        0.530
+c  12.010        0.616
+o  16.000        0.434
+ca 12.010        0.360
+c3 12.010        0.878
+hn 1.008         0.161
+ha 1.008         0.135
+hc 1.008         0.135
+
+BOND
+cd-nc  525.40   1.317
+ca-nc  467.70   1.352
+cd-n   425.10   1.381
+ca-cd  385.10   1.456
+c -n   427.60   1.379
+hn-n   403.20   1.013
+c -o   637.70   1.218
+c -ca  345.90   1.491
+ca-ca  461.10   1.398
+ca-ha  345.80   1.086
+c3-ca  321.00   1.516
+c3-c3  300.90   1.538
+c3-hc  330.60   1.097
+
+ANGLE
+n -cd-nc   71.500     123.000
+ca-cd-nc   67.600     123.240
+ca-ca-nc   69.500     119.720
+ca-nc-cd   72.500     104.880
+c -n -cd   64.700     123.270
+cd-n -hn   47.900     119.260
+ca-ca-cd   65.000     120.790
+ca-cd-n    67.900     117.670
+n -c -o    74.200     123.050
+ca-c -n    67.700     115.250
+c -n -hn   48.300     117.550
+c -ca-ca   64.300     120.330
+ca-c -o    68.700     122.600
+ca-ca-ca   66.600     120.020
+ca-ca-ha   48.200     119.880
+c3-ca-ca   63.500     120.770
+c3-c3-ca   63.100     112.070
+c3-c3-hc   46.300     109.800
+c3-c3-c3   62.900     111.510
+hc-c3-hc   39.400     107.580
+
+DIHE
+nc-cd-n -c    4    6.600       180.000           2.000
+nc-cd-n -hn   4    6.600       180.000           2.000
+ca-ca-cd-nc   4    2.800       180.000           2.000      same as X -c2-ca-X , penalty score=232.0
+c -ca-ca-nc   4   14.500       180.000           2.000
+ca-ca-ca-nc   4   14.500       180.000           2.000
+ha-ca-ca-nc   4   14.500       180.000           2.000
+ca-ca-nc-cd   2    9.600       180.000           2.000
+o -c -n -cd   4   10.000       180.000           2.000
+ca-c -n -cd   4   10.000       180.000           2.000
+ca-ca-ca-cd   4   14.500       180.000           2.000
+cd-ca-ca-ha   4   14.500       180.000           2.000
+ca-ca-cd-n    4    2.800       180.000           2.000      same as X -c2-ca-X , penalty score=232.0
+n -c -ca-ca   4    4.000       180.000           2.000
+c -ca-ca-ca   4   14.500       180.000           2.000
+c -ca-ca-ha   4   14.500       180.000           2.000
+o -c -ca-ca   4    4.000       180.000           2.000
+ca-cd-n -c    4    6.600       180.000           2.000
+ca-cd-n -hn   4    6.600       180.000           2.000
+ca-ca-ca-ca   4   14.500       180.000           2.000
+ca-ca-ca-ha   4   14.500       180.000           2.000
+c3-ca-ca-ca   4   14.500       180.000           2.000
+c3-c3-ca-ca   6    0.000         0.000           2.000
+ca-c3-c3-hc   9    1.400         0.000           3.000
+c3-ca-ca-ha   4   14.500       180.000           2.000
+n -cd-nc-ca   2    9.500       180.000           2.000
+ca-cd-nc-ca   2    9.500       180.000           2.000
+c3-c3-c3-hc   1    0.160         0.000           3.000
+o -c -n -hn   1    2.500       180.000          -2.000
+o -c -n -hn   1    2.000         0.000           1.000
+ca-c -n -hn   4   10.000       180.000           2.000
+ha-ca-ca-ha   4   14.500       180.000           2.000
+
+IMPROPER
+ca-n -cd-nc         1.1          180.0         2.0          Using the default value
+c -cd-n -hn         1.1          180.0         2.0          Using general improper torsional angle  X- X- n-hn, penalty score=  6.0)
+ca-n -c -o         10.5          180.0         2.0          Using general improper torsional angle  X- X- c- o, penalty score=  6.0)
+ca-ca-ca-cd         1.1          180.0         2.0          Using the default value
+ca-ca-ca-ha         1.1          180.0         2.0          Using general improper torsional angle  X- X-ca-ha, penalty score=  6.0)
+c3-ca-ca-ca         1.1          180.0         2.0
+ca-ca-ca-nc         1.1          180.0         2.0          Using the default value
+c -ca-ca-ca         1.1          180.0         2.0          Using the default value
+
+NONBON
+  nc          1.8240  0.1700
+  cd          1.9080  0.0860
+  n           1.8240  0.1700
+  c           1.9080  0.0860
+  o           1.6612  0.2100
+  ca          1.9080  0.0860
+  c3          1.9080  0.1094
+  hn          0.6000  0.0157
+  ha          1.4590  0.0150
+  hc          1.4870  0.0157
+
+
+

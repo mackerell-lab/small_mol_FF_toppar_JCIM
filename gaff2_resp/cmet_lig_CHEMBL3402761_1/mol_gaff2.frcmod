@@ -1,0 +1,204 @@
+Remark line goes here
+MASS
+o  16.000        0.434
+c  12.010        0.616
+cc 12.010        0.360
+cd 12.010        0.360
+nc 14.010        0.530
+n  14.010        0.530
+c3 12.010        0.878
+ca 12.010        0.360
+cp 12.010        0.360
+nb 14.010        0.530
+os 16.000        0.465
+n3 14.010        0.530
+cg 12.010        0.360
+n1 14.010        0.530
+ha 1.008         0.135
+h1 1.008         0.135
+h4 1.008         0.135
+
+BOND
+c -o   652.60   1.218
+c -cc  295.40   1.468
+c -n   356.20   1.379
+cc-cd  416.10   1.373
+cc-ha  400.10   1.084
+cd-cd  340.20   1.428
+cd-ha  400.10   1.084
+cd-nc  450.70   1.317
+ca-cd  308.20   1.456
+n -nc  295.90   1.360
+c3-n   263.80   1.462
+c3-ca  250.30   1.516
+c3-h1  375.90   1.097
+ca-ca  378.60   1.398
+ca-ha  395.70   1.086
+ca-cp  368.40   1.406
+cp-cp  277.60   1.485
+cp-nb  414.70   1.339
+ca-nb  414.20   1.339
+ca-h4  390.10   1.089
+ca-os  357.50   1.370
+c3-os  284.80   1.432
+c3-c3  232.50   1.538
+c3-n3  261.20   1.465
+ca-cg  334.10   1.433
+cg-n1  879.30   1.157
+
+ANGLE
+cc-c -o    86.700     123.930
+n -c -o   113.800     123.050
+c -cc-cd   67.200     121.350
+c -cc-ha   47.400     116.640
+c -n -nc   83.500     124.860
+c -n -c3   65.300     120.690
+cc-c -n    87.100     112.700
+cc-cd-cd   70.300     114.190
+cc-cd-ha   49.000     121.760
+cd-cc-ha   49.000     121.760
+cd-cd-nc   90.300     112.560
+ca-cd-cd   69.300     111.040
+cd-cd-ha   47.600     121.070
+cd-nc-n    88.100     117.190
+ca-ca-cd   67.100     120.790
+ca-cd-nc   85.300     123.240
+c3-n -nc   84.100     115.280
+ca-c3-n    83.500     112.380
+h1-c3-n    61.500     108.880
+c3-ca-ca   65.600     120.770
+ca-c3-h1   47.500     109.560
+ca-ca-ca   68.800     120.020
+ca-ca-ha   48.700     119.880
+ca-ca-cp   68.400     120.690
+ca-cp-ca   68.900     118.380
+ca-cp-cp   66.100     121.110
+cp-ca-ha   48.500     119.860
+cp-cp-nb   86.100     116.610
+ca-nb-cp   70.100     118.050
+nb-cp-nb  110.000     125.790
+ca-ca-nb   86.800     122.940
+h4-ca-nb   64.100     116.030
+ca-ca-os   87.300     119.200
+ca-ca-h4   48.600     120.340
+c3-os-ca   66.100     117.960
+c3-c3-os   85.300     107.970
+h1-c3-os   62.400     109.780
+c3-c3-n3   83.300     111.040
+c3-c3-h1   46.900     109.560
+c3-n3-c3   65.700     112.350
+h1-c3-n3   61.200     109.880
+c3-os-c3   66.300     112.480
+ca-ca-cg   67.800     120.270
+ca-cg-n1   74.300     179.490
+h1-c3-h1   38.800     108.460
+
+DIHE
+o -c -cc-cd   4   11.500       180.000           2.000
+o -c -cc-ha   4   11.500       180.000           2.000
+o -c -n -nc   4   10.000       180.000           2.000
+o -c -n -c3   4   10.000       180.000           2.000
+c -cc-cd-cd   4   16.000       180.000           2.000
+c -cc-cd-ha   4   16.000       180.000           2.000
+ca-c3-n -c    6    0.000         0.000           2.000
+h1-c3-n -c    1    0.000       180.000           2.000
+cc-c -n -nc   4   10.000       180.000           2.000
+cc-c -n -c3   4   10.000       180.000           2.000
+cc-cd-cd-nc   4   16.000       180.000           2.000
+ca-cd-cd-cc   4   16.000       180.000           2.000
+cd-cd-nc-n    2    9.500       180.000           2.000
+ca-ca-cd-cd   1    0.505       180.000           2.000      same as c2-ce-ca-ca, penalty score=229.0
+c -n -nc-cd   2    9.600       180.000           2.000
+c3-n -nc-cd   2    9.600       180.000           2.000
+ca-ca-ca-cd   4   14.500       180.000           2.000
+cd-ca-ca-ha   4   14.500       180.000           2.000
+ca-ca-cd-nc   4    2.800       180.000           2.000      same as X -c2-ca-X , penalty score=232.0
+ca-c3-n -nc   6    0.000         0.000           2.000
+h1-c3-n -nc   6    0.000         0.000           2.000
+n -c -cc-cd   4   11.500       180.000           2.000
+n -c -cc-ha   4   11.500       180.000           2.000
+n -c3-ca-ca   6    0.000         0.000           2.000
+c3-ca-ca-ca   4   14.500       180.000           2.000
+c3-ca-ca-ha   4   14.500       180.000           2.000
+c3-ca-ca-cp   4   14.500       180.000           2.000
+ca-ca-ca-ca   4   14.500       180.000           2.000
+ca-ca-ca-ha   4   14.500       180.000           2.000
+ca-ca-ca-cp   4   14.500       180.000           2.000
+ca-ca-cp-ca   4   14.500       180.000           2.000
+ca-ca-cp-cp   4   14.500       180.000           2.000
+ha-ca-cp-ca   4   14.500       180.000           2.000
+ca-cp-cp-nb   4    4.000       180.000           2.000
+cp-cp-nb-ca   1    0.495         0.000           3.000      same as c2-ne-ca-ca, penalty score=709.0
+ha-ca-cp-cp   4   14.500       180.000           2.000
+ca-ca-nb-cp   2    9.600       180.000           2.000
+h4-ca-nb-cp   2    9.600       180.000           2.000
+nb-cp-nb-ca   2    9.600       180.000           2.000      same as X -ca-nb-X , penalty score=418.5
+nb-ca-ca-os   4   14.500       180.000           2.000
+ca-ca-ca-nb   4   14.500       180.000           2.000
+ca-ca-os-c3   1    1.610       180.000           2.000
+ca-ca-ca-h4   4   14.500       180.000           2.000
+c3-c3-os-ca   3    1.150         0.000           3.000
+h1-c3-os-ca   3    1.150         0.000           3.000
+h4-ca-ca-os   4   14.500       180.000           2.000
+n3-c3-c3-os   9    1.400         0.000           3.000
+h1-c3-c3-os   1    0.000         0.000          -3.000
+h1-c3-c3-os   1    0.250         0.000           1.000
+c3-c3-n3-c3   1    0.580         0.000          -3.000
+c3-c3-n3-c3   1    0.280       180.000           2.000
+h1-c3-n3-c3   1    0.225         0.000           3.000
+h1-c3-c3-n3   9    1.400         0.000           3.000
+c3-c3-os-c3   1    0.240         0.000          -3.000
+c3-c3-os-c3   1    0.160         0.000           2.000
+c3-c3-os-c3   1    1.000         0.000          -2.000
+c3-c3-os-c3   1    0.000         0.000           1.000
+h1-c3-os-c3   1    0.337         0.000           3.000
+ca-cd-nc-n    2    9.500       180.000           2.000
+ca-ca-ca-cg   4   14.500       180.000           2.000
+ca-ca-cg-n1   2    0.000       180.000           2.000      same as X -c1-ca-X , penalty score= 97.0
+cg-ca-ca-ha   4   14.500       180.000           2.000
+ha-cc-cd-cd   4   16.000       180.000           2.000
+ha-cc-cd-ha   4   16.000       180.000           2.000
+ha-cd-cd-nc   4   16.000       180.000           2.000
+ca-cd-cd-ha   4   16.000       180.000           2.000
+h1-c3-ca-ca   6    0.000         0.000           2.000
+ha-ca-ca-ha   4   14.500       180.000           2.000
+cp-ca-ca-ha   4   14.500       180.000           2.000
+h1-c3-c3-h1   9    1.400         0.000           3.000
+
+IMPROPER
+cc-n -c -o         10.5          180.0         2.0          Using general improper torsional angle  X- X- c- o, penalty score=  6.0)
+c -cd-cc-ha         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 38.9 (use general term))
+cc-cd-cd-ha         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 38.9 (use general term))
+ca-cd-cd-nc         1.1          180.0         2.0          Using the default value
+c -c3-n -nc         1.1          180.0         2.0          Using the default value
+c3-ca-ca-ca         1.1          180.0         2.0
+ca-ca-ca-ha         1.1          180.0         2.0          Using general improper torsional angle  X- X-ca-ha, penalty score=  6.0)
+ca-cp-ca-ha         1.1          180.0         2.0          Using general improper torsional angle  X- X-ca-ha, penalty score=  6.0)
+ca-ca-cp-cp         1.1          180.0         2.0          Using the default value
+cp-nb-cp-nb        10.5          180.0         2.0          Same as X -n2-ca-n2, penalty score= 75.5 (use general term))
+ca-h4-ca-nb         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 44.3 (use general term))
+ca-ca-ca-os         1.1          180.0         2.0          Using the default value
+ca-ca-ca-cd         1.1          180.0         2.0          Using the default value
+ca-ca-ca-cg         1.1          180.0         2.0          Using the default value
+
+NONBON
+  o           1.7107  0.1463
+  c           1.8606  0.0988
+  cc          1.8606  0.0988
+  cd          1.8606  0.0988
+  nc          1.8993  0.0941
+  n           1.7852  0.1636
+  c3          1.9069  0.1078
+  ca          1.8606  0.0988
+  cp          1.8606  0.0988
+  nb          1.8993  0.0941
+  os          1.7713  0.0726
+  n3          1.8886  0.0858
+  cg          1.9525  0.1596
+  n1          1.8372  0.1098
+  ha          1.4735  0.0161
+  h1          1.3593  0.0208
+  h4          1.4235  0.0161
+
+
+
